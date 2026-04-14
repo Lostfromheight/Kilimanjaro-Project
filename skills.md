@@ -1,4 +1,4 @@
-# Claude Instructions — Kilimandjaro Project
+# Instructions — Kilimandjaro Project
 
 ## Read This First
 Before making any changes read PROJECT_CONTEXT.md for full system context.
